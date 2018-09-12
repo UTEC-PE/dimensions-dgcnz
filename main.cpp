@@ -24,6 +24,8 @@ struct Integer {
 
 int main(int argc, char *argv[]) {
   // Main, cortesia de Cesar Salcedo
+  // haha y e s
+  // haha y e s
   int tuple2[] = {2, 3, 5};
   int tuple[] = {0, 0, 0};
 
